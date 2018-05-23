@@ -17,7 +17,7 @@
     { "id": 15, "title": "Lasaña" },
     { "id": 16, "title": "Ramen" },
     { "id": 17, "title": "Pollo con almendras" },
-    { "id": 18, "title": "Lasaña" },
+    { "id": 18, "title": "Lasaña" }
   ],
   "comments": [
     { "id": 1, "body": "En 3 minutos", "postId": 1 },
