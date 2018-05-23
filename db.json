@@ -1,16 +1,16 @@
 {
   "posts": [
-    { "id": 1, "title": "Ramen" , "description": "arshard"},
-    { "id": 2, "title": "Pollo con almendras" , "description": "arshard"},
-    { "id": 3, "title": "Lasaña" , "description": "arshard"},
-    { "id": 4, "title": "fjfj" , "description": "arshard"},
-    { "id": 5, "title": "sj" , "description": "arshard"},
-    { "id": 6, "title": "Lasasrtjña" , "description": "arshard"},
-    { "id": 7, "title": "srtj" , "description": "arshard"},
-    { "id": 8, "title": "srtjsrtj" , "description": "arshard"},
-    { "id": 9, "title": "areger" , "description": "arshard"},
-    { "id": 10, "title": "aerhsf" , "description": "arshard"},
-    { "id": 11, "title": "ujdty" , "description": "arshard"}
+    { "id": 1, "title": "Ramen", "description": "arshard", "price": 12,9},
+    { "id": 2, "title": "Pollo con almendras", "description": "arshard", "price": 12,9},
+    { "id": 3, "title": "Lasaña", "description": "arshard", "price": 12,9},
+    { "id": 4, "title": "fjfj", "description": "arshard", "price": 12,9},
+    { "id": 5, "title": "sj", "description": "arshard", "price": 12,9},
+    { "id": 6, "title": "Lasasrtjña", "description": "arshard", "price": 12,9},
+    { "id": 7, "title": "srtj", "description": "arshard", "price": 12,9},
+    { "id": 8, "title": "srtjsrtj", "description": "arshard", "price": 12,9},
+    { "id": 9, "title": "areger", "description": "arshard", "price": 12,9},
+    { "id": 10, "title": "aerhsf", "description": "arshard", "price": 12,9},
+    { "id": 11, "title": "ujdty", "description": "arshard", "price": 12,9}
   ],
   "profile": {
     "name": "typicode"
