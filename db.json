@@ -1,5 +1,5 @@
 {
-  "posts": [
+  "menus": [
     { "id": 1, "title": "Ramen", "description": "arshard", "price": 12.9},
     { "id": 2, "title": "Pollo con almendras", "description": "arshard", "price": 12.9},
     { "id": 3, "title": "Lasaña", "description": "arshard", "price": 12.9},
