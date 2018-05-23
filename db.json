@@ -1,20 +1,16 @@
 {
   "posts": [
-    { "id": 1, "title": "Ramen" },
-    { "id": 2, "title": "Pollo con almendras" },
-    { "id": 3, "title": "Lasaña" },
-    { "id": 4, "title": "fjfj" },
-    { "id": 5, "title": "sj" },
-    { "id": 6, "title": "Lasasrtjña" },
-    { "id": 7, "title": "srtj" },
-    { "id": 8, "title": "srtjsrtj" },
-    { "id": 9, "title": "areger" },
-    { "id": 10, "title": "aerhsf" },
-    { "id": 11, "title": "ujdty" }
-  ],
-  "comments": [
-    { "id": 1, "body": "En 3 minutos", "postId": 1 },
-    { "id": 2, "body": "Para 4 personas", "postId": 3 }
+    { "id": 1, "title": "Ramen" , "description": "arshard"},
+    { "id": 2, "title": "Pollo con almendras" , "description": "arshard"},
+    { "id": 3, "title": "Lasaña" , "description": "arshard"},
+    { "id": 4, "title": "fjfj" , "description": "arshard"},
+    { "id": 5, "title": "sj" , "description": "arshard"},
+    { "id": 6, "title": "Lasasrtjña" , "description": "arshard"},
+    { "id": 7, "title": "srtj" , "description": "arshard"},
+    { "id": 8, "title": "srtjsrtj" , "description": "arshard"},
+    { "id": 9, "title": "areger" , "description": "arshard"},
+    { "id": 10, "title": "aerhsf" , "description": "arshard"},
+    { "id": 11, "title": "ujdty" , "description": "arshard"}
   ],
   "profile": {
     "name": "typicode"
