@@ -10,7 +10,10 @@
     { "id": 8, "name": "srtjsrtj", "price": 12.9},
     { "id": 9, "name": "areger", "price": 12.9},
     { "id": 10, "name": "aerhsf", "price": 12.9},
-    { "id": 11, "name": "ujdty", "price": 12.9}
+    {"id": 11, "name": "zumo", "price": 1.0},
+    {"id": 12, "name": "cerveza", "price": 1.30},
+    {"id": 13, "name": "refrescos", "price": 1.10},
+    {"id": 14, "name": "~vinos~", "price": 10}
   ],
   "drink": [
     {"id": 1, "name": "zumo", "price": 1.0},
