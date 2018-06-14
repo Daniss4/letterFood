@@ -7,7 +7,7 @@
     { "id": 5, "name": "Montadito de queso", "price": 2.50},
     { "id": 6, "name": "Hamburguesa de buey", "price": 8.90},
     { "id": 7, "name": "Ventresca de atún", "price": 10.70},
-    { "id": 8, "name": "zumo", "price": 1.0},
+    { "id": 8, "name": "Zumo", "price": 1.0},
     { "id": 9, "name": "Cerveza", "price": 1.30},
     { "id": 10, "name": "Fanta Naranja", "price": 1.10},
     { "id": 11, "name": "Fanta Limon", "price": 1.10},
