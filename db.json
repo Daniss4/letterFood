@@ -2,7 +2,7 @@
   "food": [
     { "id": 1, "name": "Ramen", "price": 4.80},
     { "id": 2, "name": "Pollo con almendras", "price": 12.90},
-    { "id": 3, "name": "Lasaña", "price": 9.99},
+    { "id": 3, "name": "Lasaña", "price": 9.80},
     { "id": 4, "name": "Montadito de jamón", "price": 3.10},
     { "id": 5, "name": "Montadito de queso", "price": 2.50},
     { "id": 6, "name": "Hamburguesa de buey", "price": 8.90},
