@@ -1,9 +1,9 @@
 {
   "food": [
-    { "id": 1, "name": "Ramen", "price": 5.00},
+    { "id": 1, "name": "Ramen", "price": 4.99},
     { "id": 2, "name": "Pollo con almendras", "price": 12.90},
     { "id": 3, "name": "Lasaña", "price": 9.99},
-    { "id": 4, "name": "Montadito de jamón", "price": 3.00},
+    { "id": 4, "name": "Montadito de jamón", "price": 2.99},
     { "id": 5, "name": "Montadito de queso", "price": 2.50},
     { "id": 6, "name": "Hamburguesa de buey", "price": 8.90},
     { "id": 7, "name": "Ventresca de atún", "price": 10.70}
